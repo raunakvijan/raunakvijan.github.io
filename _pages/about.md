@@ -2,7 +2,6 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
 ---
 
 I am a second year master’s student in Computer Science at [Indiana University Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/index.html) advised by [Dr. David Crandall](https://cs.indiana.edu/~djcran/).
