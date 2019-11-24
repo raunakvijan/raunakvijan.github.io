@@ -11,11 +11,11 @@ layout: archive
 
 <h3 class="archive__subtitle">{{ "Projects" }}</h3>
 
-  {% for post in paginator.projects %}
+  {% for post in project_paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
-{% include paginator.html %}
+{% include project_paginator.html %}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
