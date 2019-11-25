@@ -1,9 +1,8 @@
----
-layout: posts
-permalink: /blogs/
-title: "Blog"
-author_profile: true
-header:
+layout: collections
+title: "Projects"
+collection: projects
+permalink: /projects/
+author_profile: false
 ---
 
-
+Sample document listing for the collection `_projects`.
