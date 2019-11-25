@@ -242,8 +242,7 @@ compress_html:
 collections:
   projects:
     output: true
-    permalink: /:collection/:path/
-
+    
 defaults:
   # _portfolio
   - scope:
