@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: collections
 permalink: /projects/
 title: "Projects"
 author_profile: true
