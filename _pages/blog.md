@@ -1,9 +1,13 @@
 ---
-layout: collections
-title: "Projects"
-collection: projects
-permalink: /projects/
-author_profile: false
+layout: page
+title: "A list of animals"
+permalink: "/projects/"
 ---
 
-Sample document listing for the collection `_projects`.
+<ul>
+  {% for project in site.project %}
+    <li>
+      <a href="{{ animal.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
