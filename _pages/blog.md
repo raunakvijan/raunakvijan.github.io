@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "A list of animals"
-permalink: "/projects/"
+permalink: /projects/
 ---
 
 <ul>
