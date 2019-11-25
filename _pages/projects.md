@@ -6,4 +6,12 @@ permalink: /projects/
 author_profile: false
 ---
 
-Sample document listing for the collection `_projects`.
+
+<ul>
+  {% for project in site.projects %}
+    <li>
+      <a href="{"Project"}</a>
+      - {{ "Working" }}
+    </li>
+  {% endfor %}
+</ul>
