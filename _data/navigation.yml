@@ -5,7 +5,7 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Blog"
-    url: /about/
+    url: /posts/
   - title: "Resume"
     url: /resume_RaunakVijan.pdf
   # - title: "About"
